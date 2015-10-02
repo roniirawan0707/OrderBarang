@@ -9,9 +9,9 @@ $this->title = 'BASAMA - Order Barang';
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>Congratulations!</h1>
+        <h1>ORDER BARANG</h1>
 
-        <p class="lead">You have successfully created your Yii-powered application.</p>
+        <p class="lead">Perangkat Lunak Order Barang dengan Metode <code>ROP</code> dan <code>EOQ</code></p>
 
         <p>
         <?php        

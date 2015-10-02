@@ -47,8 +47,18 @@ AppAsset::register($this);
             //         'url' => ['/site/logout'],
             //         'linkOptions' => ['data-method' => 'post']
             // ],
-
-            Yii::$app->user->isGuest ? '' : ['label' => 'Supplier', 'url' => ['/supplier/index']],
+            Yii::$app->user->isGuest ? '' :
+            [
+                'label' => 'Master',
+                'items' => [                                        
+                    ['label' => 'Supplier', 'url' => ['/supplier/index']],                    
+                    ['label' => 'Barang', 'url' => ['/supplier/index']],
+                    '<li class="divider"></li>',
+                    '<li class="dropdown-header">Migrasi Data</li>',
+                    ['label' => 'Import Data Stok', 'url' => ['/supplier/index']],
+                    ['label' => 'Import Data Penjualan', 'url' => ['/supplier/index']],                    
+                ],
+            ],            
             Yii::$app->user->isGuest ? '' : 
             [
                 'label' => 'Logout ('. Yii::$app->user->identity->username .')', 
