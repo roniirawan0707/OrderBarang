@@ -1,6 +1,8 @@
 <?php
 
 /* @var $this yii\web\View */
+use yii\helpers\Html;
+use app\assets\AppAsset;
 
 $this->title = 'BASAMA - Order Barang';
 ?>
@@ -11,12 +13,21 @@ $this->title = 'BASAMA - Order Barang';
 
         <p class="lead">You have successfully created your Yii-powered application.</p>
 
-        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
+        <p>
+        <?php        
+            if (Yii::$app->user->isGuest) {
+                echo Html::a('<span class="glyphicon glyphicon-lock"></span> Masuk',
+                    ['/site/login'],
+                    ['class'=>'btn btn-primary']
+                );
+            }        
+        ?>
+        </p>
     </div>
 
     <div class="body-content">
 
-        <div class="row">
+        <!-- <div class="row">
             <div class="col-lg-4">
                 <h2>Heading</h2>
 
@@ -47,7 +58,7 @@ $this->title = 'BASAMA - Order Barang';
 
                 <p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/">Yii Extensions &raquo;</a></p>
             </div>
-        </div>
+        </div> -->
 
     </div>
 </div>
