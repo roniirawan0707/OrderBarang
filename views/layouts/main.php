@@ -1,14 +1,11 @@
 <?php
-
 /* @var $this \yii\web\View */
 /* @var $content string */
-
 use yii\helpers\Html;
 use yii\bootstrap\Nav;
 use yii\bootstrap\NavBar;
 use yii\widgets\Breadcrumbs;
 use app\assets\AppAsset;
-
 AppAsset::register($this);
 ?>
 <?php $this->beginPage() ?>
@@ -36,17 +33,7 @@ AppAsset::register($this);
     ]);
     echo Nav::widget([
         'options' => ['class' => 'navbar-nav navbar-right'],
-        'items' => [
-            // ['label' => 'Home', 'url' => ['/site/index']],            
-            // ['label' => 'Contact', 'url' => ['/site/contact']],
-            // Yii::$app->user->isGuest ? '' : ['label' => 'Supplier', 'url' => ['/supplier/index']],
-            // Yii::$app->user->isGuest ?
-            //     ['label' => 'Login', 'url' => ['/site/login']] :
-            //     [
-            //         'label' => 'Logout (' . Yii::$app->user->identity->username . ')',
-            //         'url' => ['/site/logout'],
-            //         'linkOptions' => ['data-method' => 'post']
-            // ],
+        'items' => [            
             Yii::$app->user->isGuest ? '' :
             [
                 'label' => 'Master',
@@ -81,7 +68,6 @@ AppAsset::register($this);
 <footer class="footer">
     <div class="container">
         <p class="pull-left">&copy; BASAMA <?= date('Y') ?></p>
-
         <p class="pull-right"><?= Yii::powered() ?></p>
     </div>
 </footer>
