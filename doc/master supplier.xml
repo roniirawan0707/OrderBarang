@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">idsupplier</Data></Cell>
+			<Cell><Data ss:Type="String">nama</Data></Cell>
+			<Cell><Data ss:Type="String">java</Data></Cell>
+			<Cell><Data ss:Type="String">cbr</Data></Cell>
+			<Cell><Data ss:Type="String">telepon1</Data></Cell>
+			<Cell><Data ss:Type="String">telepon2</Data></Cell>
+			<Cell><Data ss:Type="String">alamat</Data></Cell>
+			<Cell><Data ss:Type="String">keterangan</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">H. Ade</Data></Cell>
+			<Cell><Data ss:Type="String">HAD</Data></Cell>
+			<Cell><Data ss:Type="String">AHC</Data></Cell>
+			<Cell><Data ss:Type="String">081322145773</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JL MAHMUD SINDANG PALAY RT 3 / RW 4 DESA RAHAYU KECAMATAN MARGAASIH</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Kemeja</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">H. Ade Obreh</Data></Cell>
+			<Cell><Data ss:Type="String">HOB</Data></Cell>
+			<Cell><Data ss:Type="String">AOC</Data></Cell>
+			<Cell><Data ss:Type="String">081220043808</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">SITUTARATE RT 06 / RW 01 DESA CANGKUANG KULON KEC. DAYEUHKOLOT</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Asep Auf Mahruf</Data></Cell>
+			<Cell><Data ss:Type="String">DSJ</Data></Cell>
+			<Cell><Data ss:Type="String">APC</Data></Cell>
+			<Cell><Data ss:Type="String">081320520112</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JL TRUS PASIR KOJA GG. HJ SITI ROKAYAH RT 03/06 KP. BABAKAN KEC. BBK CIPARAY</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Koko</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">Ayi Dadan</Data></Cell>
+			<Cell><Data ss:Type="String">AYI</Data></Cell>
+			<Cell><Data ss:Type="String">AYC</Data></Cell>
+			<Cell><Data ss:Type="String">085223248100</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">BLOK SAPATU RT 02 / RW 05 KELURAHAN CIBADUYUT KECAMATAN BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Beni</Data></Cell>
+			<Cell><Data ss:Type="String">BNI</Data></Cell>
+			<Cell><Data ss:Type="String">BEC</Data></Cell>
+			<Cell><Data ss:Type="String">081221493488</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">GANG IPONG RT 05 / RW 02 KEL. CIBADUYUT WETAN KEC. BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">Bernard</Data></Cell>
+			<Cell><Data ss:Type="String">JUC</Data></Cell>
+			<Cell><Data ss:Type="String">BRC</Data></Cell>
+			<Cell><Data ss:Type="String">08156060339</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">LEMBAH PERMAI HANJUANG BLOK D1 NO. 10 CIHANJUANG BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Oblong</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">Cecep</Data></Cell>
+			<Cell><Data ss:Type="String">CPS</Data></Cell>
+			<Cell><Data ss:Type="String">CPC</Data></Cell>
+			<Cell><Data ss:Type="String">089612217068</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN SUKAMENAK NO 140-142 DESA SUKAMENAK KECAMATAN MARGAHAYU</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Dian</Data></Cell>
+			<Cell><Data ss:Type="String">DAN</Data></Cell>
+			<Cell><Data ss:Type="String">DAC</Data></Cell>
+			<Cell><Data ss:Type="String">02293464496</Data></Cell>
+			<Cell><Data ss:Type="String">081802172781</Data></Cell>
+			<Cell><Data ss:Type="String">SADANG SARI NO 2 RT 11 / RW 12 MARGAHAYU SELATAN BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">Dadang Suhana</Data></Cell>
+			<Cell><Data ss:Type="String">DDJ</Data></Cell>
+			<Cell><Data ss:Type="String">DCC</Data></Cell>
+			<Cell><Data ss:Type="String">08121467008</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">SOEKARNO HATTA WARNA CINTA 39 RT 02 / RW 03 KEL. MEKARWANGI KEC. BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Pantople Wanita</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Doni</Data></Cell>
+			<Cell><Data ss:Type="String">DON</Data></Cell>
+			<Cell><Data ss:Type="String">DOC</Data></Cell>
+			<Cell><Data ss:Type="String">081322838557</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KOPO CIRANGRANG TIMUR RT 04 / RW 2 KEL. CIRANGRANG KEC. BABAKAN CIPARAY BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Wanita</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">Indra Ucok</Data></Cell>
+			<Cell><Data ss:Type="String">IDR</Data></Cell>
+			<Cell><Data ss:Type="String">DRC</Data></Cell>
+			<Cell><Data ss:Type="String">02292238390</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">CITARIP BARAT GG. AL HIDAYAH RT 001/008 DEKAT MASJID AL HIDAYAH</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">David</Data></Cell>
+			<Cell><Data ss:Type="String">STN</Data></Cell>
+			<Cell><Data ss:Type="String">DVC</Data></Cell>
+			<Cell><Data ss:Type="String">085220127347</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. WARNA CINTA RT 03 / RW 03 KEL. MEKAR WANGI KECAMATAN BOJONG LOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Pria</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Dewi Kania</Data></Cell>
+			<Cell><Data ss:Type="String">BDW</Data></Cell>
+			<Cell><Data ss:Type="String">DWC</Data></Cell>
+			<Cell><Data ss:Type="String">081320166018</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. LEUWI DULANG RT 01 / RW 02 DESA RANCAMULYA KECAMATAN PAMEUNGPEUK</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">Edi</Data></Cell>
+			<Cell><Data ss:Type="String">EDI</Data></Cell>
+			<Cell><Data ss:Type="String">EIC</Data></Cell>
+			<Cell><Data ss:Type="String">081320425645</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">TARATE MEKAR RT 05 / RW 02 DESA CANGKUANG KULON KECAMATAN DAYEUHKOLOT</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Anak</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Erpan</Data></Cell>
+			<Cell><Data ss:Type="String">ERJ</Data></Cell>
+			<Cell><Data ss:Type="String">ERC</Data></Cell>
+			<Cell><Data ss:Type="String">085723402611</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN MA EJA CIAKAMANDILAN RT 03 / RW 03 KEL. CIBADUYUT KEC. BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">Fahmi Bin Thalib</Data></Cell>
+			<Cell><Data ss:Type="String">FJT</Data></Cell>
+			<Cell><Data ss:Type="String">FAC</Data></Cell>
+			<Cell><Data ss:Type="String">081394303777</Data></Cell>
+			<Cell><Data ss:Type="String">087823975014</Data></Cell>
+			<Cell><Data ss:Type="String">GG. MA EJA KELURAHAN CIBADUYUT KEC. BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">Faisal</Data></Cell>
+			<Cell><Data ss:Type="String">VIS</Data></Cell>
+			<Cell><Data ss:Type="String">FIC</Data></Cell>
+			<Cell><Data ss:Type="String">089655172626</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">TOKO JAVA SEVEN JALAN INDRAYASA NO 69 CIBADUYUT BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">Ajang</Data></Cell>
+			<Cell><Data ss:Type="String">AJG</Data></Cell>
+			<Cell><Data ss:Type="String">GAC</Data></Cell>
+			<Cell><Data ss:Type="String">082115215951</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">BLOK LUMBUNG RT 02 / RW 06 KEL. CIBADUYUT KECAMATAN BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu Wanita</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">Gilang (SOGA)</Data></Cell>
+			<Cell><Data ss:Type="String">GLR</Data></Cell>
+			<Cell><Data ss:Type="String">GIC</Data></Cell>
+			<Cell><Data ss:Type="String">087822070097</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">GG IBU IPONG RT 05 / RW 02 KEL. CIBADUYUT KEC. BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Agus Arab</Data></Cell>
+			<Cell><Data ss:Type="String">ARB</Data></Cell>
+			<Cell><Data ss:Type="String">GRC</Data></Cell>
+			<Cell><Data ss:Type="String">081320654263</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">GANG H. IBRAHIM RT 04 / RW 06 NO. 10 KEL. CIBADUYUT WETAN KEC. BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Pria</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">Asep Gayo</Data></Cell>
+			<Cell><Data ss:Type="String">GYO</Data></Cell>
+			<Cell><Data ss:Type="String">GYC</Data></Cell>
+			<Cell><Data ss:Type="String">081322619752</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">BLOK SAPATU RT 01 / RW 04 KEL. CIBADUYUT KEC. BOJONG LOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Dompet</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">Hj. Edah</Data></Cell>
+			<Cell><Data ss:Type="String">HDH</Data></Cell>
+			<Cell><Data ss:Type="String">HEC</Data></Cell>
+			<Cell><Data ss:Type="String">081321007034</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN CIPARAY TENGAH (BELAKANG SD BANDUNG)</Data></Cell>
+			<Cell><Data ss:Type="String">Supplier Sepatu Wanita</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">H. Arif</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">HFC</Data></Cell>
+			<Cell><Data ss:Type="String">081320199887</Data></Cell>
+			<Cell><Data ss:Type="String">082117849948</Data></Cell>
+			<Cell><Data ss:Type="String">SITUTARATE RT 02 / RW 022 DESA CANGKUANG KULON KEC. DAYEUHKOLOT</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="String">H. Ahid</Data></Cell>
+			<Cell><Data ss:Type="String">AHD</Data></Cell>
+			<Cell><Data ss:Type="String">HIC</Data></Cell>
+			<Cell><Data ss:Type="String">082126403468</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">BINONG JATI RT 08 / RW 03 NO. 58 KOTA BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String">H. Dudeng</Data></Cell>
+			<Cell><Data ss:Type="String">HJD</Data></Cell>
+			<Cell><Data ss:Type="String">HMC</Data></Cell>
+			<Cell><Data ss:Type="String">081320389000</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">SITU TARATE RT 05 / RW 01 DESA CANGKUANG KULON KECAMATAN DAYEUHKOLOT</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="String">Agil</Data></Cell>
+			<Cell><Data ss:Type="String">GIL</Data></Cell>
+			<Cell><Data ss:Type="String">ILC</Data></Cell>
+			<Cell><Data ss:Type="String">085846626628</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">CIHARASHAS RT 05 / RW 07 DESA SIRNAGALIH KECAMATAN CILAKU KAB. CIANJUR</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Dompet</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="String">Indra Mastoti</Data></Cell>
+			<Cell><Data ss:Type="String">DRA</Data></Cell>
+			<Cell><Data ss:Type="String">INC</Data></Cell>
+			<Cell><Data ss:Type="String">08122388451</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JL BAHAGIA PERMAI 1 NO. 26 MARGA CINTA KOMP. BAHAGIA PERMAI</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Oblong</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="String">Iwan Kartiwan (SOGA)</Data></Cell>
+			<Cell><Data ss:Type="String">JTO</Data></Cell>
+			<Cell><Data ss:Type="String">IOC</Data></Cell>
+			<Cell><Data ss:Type="String">081394080909</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">BABAKAN TVRI 5 KEL. CIBADUYUT KEC. BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas dan Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="String">IWAN ZAKARIA</Data></Cell>
+			<Cell><Data ss:Type="String">IRJ</Data></Cell>
+			<Cell><Data ss:Type="String">IRC</Data></Cell>
+			<Cell><Data ss:Type="String">082117781707</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. CIODENG TIMUR RT 06 / RW 08 DESA BOJONGMALAKA KECAMATAN BALEENDAH</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="String">Iwan Sudrajat</Data></Cell>
+			<Cell><Data ss:Type="String">IWN</Data></Cell>
+			<Cell><Data ss:Type="String">IWC</Data></Cell>
+			<Cell><Data ss:Type="String">085795058105</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">BLOK LUMBUNG RT 03 RW 02</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu Wanita</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="String">Ruhiat</Data></Cell>
+			<Cell><Data ss:Type="String">RHT</Data></Cell>
+			<Cell><Data ss:Type="String">IYC</Data></Cell>
+			<Cell><Data ss:Type="String">087825230155</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. PASIR HUNI RT 02 / RW 02 DESA PASIR HUNI KEC. CIMAUNG KAB. BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Wanita</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="String">Jamal</Data></Cell>
+			<Cell><Data ss:Type="String">JML</Data></Cell>
+			<Cell><Data ss:Type="String">JAC</Data></Cell>
+			<Cell><Data ss:Type="String">081322871183</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. SALAKOPI RT 02 / RW 09 DESA CIHAMPELAS KECAMATAN CILILIN</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Jaket</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="String">Aan</Data></Cell>
+			<Cell><Data ss:Type="String">AAN</Data></Cell>
+			<Cell><Data ss:Type="String">KAC</Data></Cell>
+			<Cell><Data ss:Type="String">085324058987</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">RANCAMANYAR RT 05 / RW 14 DESA DAYEUH KOLOT (BELAKANG PASAR NUSA)</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Anak</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="String">Sidik Mulyana</Data></Cell>
+			<Cell><Data ss:Type="String">SDK</Data></Cell>
+			<Cell><Data ss:Type="String">KIC</Data></Cell>
+			<Cell><Data ss:Type="String">085795730007</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KEBON KALAPA RT O3 / RW 02 DESA MEKAR WANGI KEC. BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Dompet</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="String">Abdul Karim</Data></Cell>
+			<Cell><Data ss:Type="String">AKM</Data></Cell>
+			<Cell><Data ss:Type="String">KRC</Data></Cell>
+			<Cell><Data ss:Type="String">085794472109</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JLN SUKAMENAK PERUM PERMATA KOPO SAYATI KEC. MARGAHAYU (BELAKANG SD SUKAMENAK)</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Pria</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="String">Engkos</Data></Cell>
+			<Cell><Data ss:Type="String">KJS</Data></Cell>
+			<Cell><Data ss:Type="String">KSC</Data></Cell>
+			<Cell><Data ss:Type="String">085860821368</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">BLOK LUMBUNG RT 03 / RW 02 KELURAHAN CIBADUYUT KECAMATAN BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Wanita</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="String">Abdulloh</Data></Cell>
+			<Cell><Data ss:Type="String">JTA</Data></Cell>
+			<Cell><Data ss:Type="String">LEC</Data></Cell>
+			<Cell><Data ss:Type="String">081394308907</Data></Cell>
+			<Cell><Data ss:Type="String">0225413773</Data></Cell>
+			<Cell><Data ss:Type="String">JALAN MEKARSARI NO 16</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="String">Dadi Setiadi</Data></Cell>
+			<Cell><Data ss:Type="String">MOY</Data></Cell>
+			<Cell><Data ss:Type="String">MAC</Data></Cell>
+			<Cell><Data ss:Type="String">085295225999</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN INDRAYASA NO 69 CIBADUYUT BANDUNG (TOKO JAVA SEVEN)</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="String">Ahmad Awing</Data></Cell>
+			<Cell><Data ss:Type="String">MDJ</Data></Cell>
+			<Cell><Data ss:Type="String">MDC</Data></Cell>
+			<Cell><Data ss:Type="String">082118490405</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">BLOK LUMBUNG RT 05 / RW 06 KELURAHAN CIBADUYUT KECAMATAN BOJONG LOA KIDUL (BELAKANG GARSEL)</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Gunung</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="String">Agus Mulyana</Data></Cell>
+			<Cell><Data ss:Type="String">AMU</Data></Cell>
+			<Cell><Data ss:Type="String">MGC</Data></Cell>
+			<Cell><Data ss:Type="String">082116725879</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">SITU TARATE RT 03 / RW 02 JLN. TERUSAN CIBADUYUT BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Anak</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="String">Mahmud</Data></Cell>
+			<Cell><Data ss:Type="String">MHD</Data></Cell>
+			<Cell><Data ss:Type="String">MHC</Data></Cell>
+			<Cell><Data ss:Type="String">082214850428</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">GANG MA EJA RT 02 / RW 03 KEL. CIBADUYUT KECAMATAN BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">42</Data></Cell>
+			<Cell><Data ss:Type="String">Iman</Data></Cell>
+			<Cell><Data ss:Type="String">IMN</Data></Cell>
+			<Cell><Data ss:Type="String">MIC</Data></Cell>
+			<Cell><Data ss:Type="String">085234142532</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. HEUBEUL ISUK RT 02 / RW 09 DESA SUKAJADI KECAMATAN SOREANG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Wanita</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="String">Pian</Data></Cell>
+			<Cell><Data ss:Type="String">PIN</Data></Cell>
+			<Cell><Data ss:Type="String">MPC</Data></Cell>
+			<Cell><Data ss:Type="String">081220358393</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KOMP. ANGKASA MEKAR KAV. 64 CIBADUYUT BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Jaket</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="String">Imas Sopiah</Data></Cell>
+			<Cell><Data ss:Type="String">ISS</Data></Cell>
+			<Cell><Data ss:Type="String">MSC</Data></Cell>
+			<Cell><Data ss:Type="String">085794450930</Data></Cell>
+			<Cell><Data ss:Type="String">089680594935</Data></Cell>
+			<Cell><Data ss:Type="String">JALAN CIBADUYUT GANG KOPSI RT 03 / RW 03 CIBADUYUT BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Anak</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="String">Mulyana</Data></Cell>
+			<Cell><Data ss:Type="String">MLY</Data></Cell>
+			<Cell><Data ss:Type="String">MUC</Data></Cell>
+			<Cell><Data ss:Type="String">089505022158</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">BLOK LUMBUNG RT 03 / RW 02 KELURAHAN CIBADUYUT KECAMATAN BOJONG LOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu Wanita</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">46</Data></Cell>
+			<Cell><Data ss:Type="String">Sunandar / Enay</Data></Cell>
+			<Cell><Data ss:Type="String">SND</Data></Cell>
+			<Cell><Data ss:Type="String">NAC</Data></Cell>
+			<Cell><Data ss:Type="String">02285872341</Data></Cell>
+			<Cell><Data ss:Type="String">082118458749</Data></Cell>
+			<Cell><Data ss:Type="String">KP. BOJONG RT 03 / RW 01 DESA SUKAMUKTI KECAMATAN KATAPANG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="String">Neng Wiwin</Data></Cell>
+			<Cell><Data ss:Type="String">NEG</Data></Cell>
+			<Cell><Data ss:Type="String">NNC</Data></Cell>
+			<Cell><Data ss:Type="String">082120390655</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KOMPLEK LEUWISARI 5 NO 194 BELAKANG FUTSAL IDOLA KEL. KEBON LEGA KEC. BOJONG LOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Rajut</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+			<Cell><Data ss:Type="String">Dodi Kusnadi</Data></Cell>
+			<Cell><Data ss:Type="String">JDI</Data></Cell>
+			<Cell><Data ss:Type="String">ODC</Data></Cell>
+			<Cell><Data ss:Type="String">085221580885</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. GAROGOL RT 01 / RW 05 DESA MARGAASIH KECAMATAN CICALENGKA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="String">Iwong</Data></Cell>
+			<Cell><Data ss:Type="String">OWJ</Data></Cell>
+			<Cell><Data ss:Type="String">OWC</Data></Cell>
+			<Cell><Data ss:Type="String">08986230256</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">CIKAMANDILAN RT 03 / RW 03 KEL. CIBADUYUT KEC. BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu Wanita</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="String">Ara Suhara</Data></Cell>
+			<Cell><Data ss:Type="String">ARS</Data></Cell>
+			<Cell><Data ss:Type="String">PAC</Data></Cell>
+			<Cell><Data ss:Type="String">081220376494</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KEBON KALAPA RT O3 / RW 02 DESA MEKAR WANGI KEC. BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+			<Cell><Data ss:Type="String">Ajat Munajat</Data></Cell>
+			<Cell><Data ss:Type="String">AJT</Data></Cell>
+			<Cell><Data ss:Type="String">PJC</Data></Cell>
+			<Cell><Data ss:Type="String">081322035342</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">GG. MAMAJA RT 03 / RW 05 KEL. CIBADUYUT KEC. BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="String">Siti</Data></Cell>
+			<Cell><Data ss:Type="String">DKI</Data></Cell>
+			<Cell><Data ss:Type="String">QQC</Data></Cell>
+			<Cell><Data ss:Type="String">081321620000</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">Kebon Kopi</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Dompet</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+			<Cell><Data ss:Type="String">Robih (Yayat)</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">RBC</Data></Cell>
+			<Cell><Data ss:Type="String">082214251671</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JL. CIBADUYUT GG. IPONG RT 05 / RW 02 KEL. CIBADUYUT WETAN KEC. BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+			<Cell><Data ss:Type="String">Rudi</Data></Cell>
+			<Cell><Data ss:Type="String">RDW</Data></Cell>
+			<Cell><Data ss:Type="String">RDC</Data></Cell>
+			<Cell><Data ss:Type="String">081221677744</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">LEUWI DULANG RT 02 / RW 13 KEL RANCAMULYA KEC. PAMEUNGPEUK</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="String">Reni Nurhayati</Data></Cell>
+			<Cell><Data ss:Type="String">JRN</Data></Cell>
+			<Cell><Data ss:Type="String">REC</Data></Cell>
+			<Cell><Data ss:Type="String">081220731019</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN INHOFTANK NO. 15 KOTA BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+			<Cell><Data ss:Type="String">Didin Jaenudin, S. Sos</Data></Cell>
+			<Cell><Data ss:Type="String">DDN</Data></Cell>
+			<Cell><Data ss:Type="String">RKC</Data></Cell>
+			<Cell><Data ss:Type="String">081220485444</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. SUKAMENTRI RT 01 / RW 13 DESA COPONG KEC. GARUT KOTA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Jaket</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="String">Rully</Data></Cell>
+			<Cell><Data ss:Type="String">RLY</Data></Cell>
+			<Cell><Data ss:Type="String">RLC</Data></Cell>
+			<Cell><Data ss:Type="String">081394578989</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN SARI INDAH II NO.7 KIARA CONDONG BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu dan Tas Anak</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="String">Zezen</Data></Cell>
+			<Cell><Data ss:Type="String">BRI</Data></Cell>
+			<Cell><Data ss:Type="String">RNC</Data></Cell>
+			<Cell><Data ss:Type="String">081321728383</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN INDRAYASA NO 69 CIBADUYUT BANDUNG (TOKO JAVA SEVEN)</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas dan Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="String">Asep Rita</Data></Cell>
+			<Cell><Data ss:Type="String">ART</Data></Cell>
+			<Cell><Data ss:Type="String">RTC</Data></Cell>
+			<Cell><Data ss:Type="String">02293430457</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">BLOK SAPATU RT 03 / RW 05 NO 19 KEL. CIBADUYUT KEC. BOJONGLOA KIDUL (BELAKANG TK. MITRA)</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+			<Cell><Data ss:Type="String">Asep Darmawan</Data></Cell>
+			<Cell><Data ss:Type="String">ARD</Data></Cell>
+			<Cell><Data ss:Type="String">SDC</Data></Cell>
+			<Cell><Data ss:Type="String">082217317661</Data></Cell>
+			<Cell><Data ss:Type="String">02292871600</Data></Cell>
+			<Cell><Data ss:Type="String">KOMP. ANGKASA MEKAR KAV.108 RT 03 /22 DESA CANGKUANG KULON KEC. DAYEUH KOLOT</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+			<Cell><Data ss:Type="String">Agus Muhamad (GARSEL)</Data></Cell>
+			<Cell><Data ss:Type="String">AGM</Data></Cell>
+			<Cell><Data ss:Type="String">SGC</Data></Cell>
+			<Cell><Data ss:Type="String">081394028638</Data></Cell>
+			<Cell><Data ss:Type="String">087823375716</Data></Cell>
+			<Cell><Data ss:Type="String">KP. GAROGOL RT 03 / RW 06 DESA MARGAASIH KECAMATAN CICALENGKA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+			<Cell><Data ss:Type="String">Aisyah</Data></Cell>
+			<Cell><Data ss:Type="String">ASJ</Data></Cell>
+			<Cell><Data ss:Type="String">SIC</Data></Cell>
+			<Cell><Data ss:Type="String">08122007436</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. CILISUNG RT 06 / RW 16 DESA SUKAMENAK KECAMATAN MARGAHAYU</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+			<Cell><Data ss:Type="String">Samsu</Data></Cell>
+			<Cell><Data ss:Type="String">SAM</Data></Cell>
+			<Cell><Data ss:Type="String">SMC</Data></Cell>
+			<Cell><Data ss:Type="String">085210371611</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP CILEBAK RT 001/014 DESA CANGKUANG KULON</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+			<Cell><Data ss:Type="String">Irsan Sopian</Data></Cell>
+			<Cell><Data ss:Type="String">ISJ</Data></Cell>
+			<Cell><Data ss:Type="String">SNC</Data></Cell>
+			<Cell><Data ss:Type="String">081821467170</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN PETA RT 04 / RW 04 KEL. SUKA ASIH KECAMATAN BOJONGLOA KALER</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="String">Asep Setiadi</Data></Cell>
+			<Cell><Data ss:Type="String">ASS</Data></Cell>
+			<Cell><Data ss:Type="String">STC</Data></Cell>
+			<Cell><Data ss:Type="String">081809713380</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN PETA GANG SINDANG ASIH RT 04 / RW 04 KEL. SUKA ASIH KECAMATAN BOJONG LOA KALER</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+			<Cell><Data ss:Type="String">Ayi Firmansyah</Data></Cell>
+			<Cell><Data ss:Type="String">AYJ</Data></Cell>
+			<Cell><Data ss:Type="String">SYC</Data></Cell>
+			<Cell><Data ss:Type="String">087825497089</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. BABAKAN JATI RT 03 / RW 09 MARIPARI  SUKAWENING GARUT / Gg. TVRI 5 RT 05 / RW 01</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+			<Cell><Data ss:Type="String">Abdul Fatah</Data></Cell>
+			<Cell><Data ss:Type="String">BJF</Data></Cell>
+			<Cell><Data ss:Type="String">TFC</Data></Cell>
+			<Cell><Data ss:Type="String">0878823018355</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">CIKAMANDILAN RT 01 / RW 02 KELURAHAN CIBADUYUT KECAMATAN BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu Pantople</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+			<Cell><Data ss:Type="String">Tomi</Data></Cell>
+			<Cell><Data ss:Type="String">TOM</Data></Cell>
+			<Cell><Data ss:Type="String">TMC</Data></Cell>
+			<Cell><Data ss:Type="String">085295760097</Data></Cell>
+			<Cell><Data ss:Type="String">08772484142</Data></Cell>
+			<Cell><Data ss:Type="String">KP. BANGBAYANG RT 03 / RW 08 DESA KARANGMULYA KECAMATAN KADUNGORA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sarung Tangan&#39;</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+			<Cell><Data ss:Type="String">Tomi</Data></Cell>
+			<Cell><Data ss:Type="String">TOM</Data></Cell>
+			<Cell><Data ss:Type="String">TMC</Data></Cell>
+			<Cell><Data ss:Type="String">085295760097</Data></Cell>
+			<Cell><Data ss:Type="String">08772484142</Data></Cell>
+			<Cell><Data ss:Type="String">KP. BANGBAYANG RT 03 / RW 08 DESA KARANGMULYA KECAMATAN KADUNGORA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sarung Tangan</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+			<Cell><Data ss:Type="String">Tatan</Data></Cell>
+			<Cell><Data ss:Type="String">TAN</Data></Cell>
+			<Cell><Data ss:Type="String">TNC</Data></Cell>
+			<Cell><Data ss:Type="String">089655965971</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. SAMPORA RT 03 / RW 04 DESA MARGAHAYU KECAMATAN SUKAMENAK</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu Wanita</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+			<Cell><Data ss:Type="String">Uden</Data></Cell>
+			<Cell><Data ss:Type="String">UEJ</Data></Cell>
+			<Cell><Data ss:Type="String">UEC</Data></Cell>
+			<Cell><Data ss:Type="String">081809713380</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN PETA GANG SINDANG ASIH RT 04 / RW 04 KEL. SUKA ASIH KECAMATAN BOJONG LOA KALER</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+			<Cell><Data ss:Type="String">Anwar</Data></Cell>
+			<Cell><Data ss:Type="String">ANW</Data></Cell>
+			<Cell><Data ss:Type="String">WRC</Data></Cell>
+			<Cell><Data ss:Type="String">085223486166</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. BABAKAN ABID RT 02 / RW 01 DESA SUCIKALER KEC. KARANGPAWITAN KAB. GARUT</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sarung Tangan dan Jaket</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+			<Cell><Data ss:Type="String">Wahyu</Data></Cell>
+			<Cell><Data ss:Type="String">WHY</Data></Cell>
+			<Cell><Data ss:Type="String">WUC</Data></Cell>
+			<Cell><Data ss:Type="String">08882122377</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">BLOK SEPATU (BELAKANG GARSEL) KEL. CIBADUYUT KECAMATAN BOJONG LOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Pria</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+			<Cell><Data ss:Type="String">Yeyep</Data></Cell>
+			<Cell><Data ss:Type="String">YPS</Data></Cell>
+			<Cell><Data ss:Type="String">YPC</Data></Cell>
+			<Cell><Data ss:Type="String">081321771616</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">SITUTARATE GANG TARATE 02 RT 08 / RW 01 DESA CANGKUANG KULON KEC. DAYEUHKOLOT</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu Pantople</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+			<Cell><Data ss:Type="String">Herman</Data></Cell>
+			<Cell><Data ss:Type="String">HRM</Data></Cell>
+			<Cell><Data ss:Type="String">YSC</Data></Cell>
+			<Cell><Data ss:Type="String">0225407761</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN KOPO SAYATI 363 A BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+			<Cell><Data ss:Type="String">H. Zezen</Data></Cell>
+			<Cell><Data ss:Type="String">HJN</Data></Cell>
+			<Cell><Data ss:Type="String">ZNC</Data></Cell>
+			<Cell><Data ss:Type="String">081323534739</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. SUKAMENTRI RT 01 / RW 14 DESA SUKAMENTRI KEC. GARUT KOTA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Jaket</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+			<Cell><Data ss:Type="String">Asep Sukron (Bengkel Sepatu)</Data></Cell>
+			<Cell><Data ss:Type="String">BJI</Data></Cell>
+			<Cell><Data ss:Type="String">BCC</Data></Cell>
+			<Cell><Data ss:Type="String">082129196663</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN CIBADUYUT LAMA GANG IBU IDA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu Wanita</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+			<Cell><Data ss:Type="String">Asep Sukron (Bengkel Sepatu)</Data></Cell>
+			<Cell><Data ss:Type="String">BJB</Data></Cell>
+			<Cell><Data ss:Type="String">BSC</Data></Cell>
+			<Cell><Data ss:Type="String">082129196663</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN CIBADUYUT LAMA GANG IBU IDA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu Pria</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+			<Cell><Data ss:Type="String">Pian (Bengkel Busana)</Data></Cell>
+			<Cell><Data ss:Type="String">ISL</Data></Cell>
+			<Cell><Data ss:Type="String">ISC</Data></Cell>
+			<Cell><Data ss:Type="String">081220358393</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KOMP. ANGKASA MEKAR KAV. 64 CIBADUYUT BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+			<Cell><Data ss:Type="String">Sambas (Bengkel Tas)</Data></Cell>
+			<Cell><Data ss:Type="String">BTS</Data></Cell>
+			<Cell><Data ss:Type="String">BTC</Data></Cell>
+			<Cell><Data ss:Type="String">08122293670</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KOMP. ANGKASA MEKAR KAV. 64 CIBADUYUT BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+			<Cell><Data ss:Type="String">Andri</Data></Cell>
+			<Cell><Data ss:Type="String">ADR</Data></Cell>
+			<Cell><Data ss:Type="String">NRC</Data></Cell>
+			<Cell><Data ss:Type="String">082130196188</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP CILEBAK RT 03 /14 DESA CANGKUANG WETAN KEC DAYEUH KOLOT KAB BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">82</Data></Cell>
+			<Cell><Data ss:Type="String">Afriani</Data></Cell>
+			<Cell><Data ss:Type="String">AFR</Data></Cell>
+			<Cell><Data ss:Type="String">AFC</Data></Cell>
+			<Cell><Data ss:Type="String">082120017982</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JI SAYATI HILIR NO 11 RT 01 RW 08 DESA SAYATI KEC MARGAHAYU KAB . BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+			<Cell><Data ss:Type="String">Sobandi / Alex</Data></Cell>
+			<Cell><Data ss:Type="String">ALX</Data></Cell>
+			<Cell><Data ss:Type="String">LXC</Data></Cell>
+			<Cell><Data ss:Type="String">081322179951</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">PERUMAHAN TAMAN CILEUNYI KECAMATAN CILEUNYI (BELAKANG BUMI PANYAWANGAN)</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+			<Cell><Data ss:Type="String">Asep Nurrohman</Data></Cell>
+			<Cell><Data ss:Type="String">ASN</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">087825555146</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN CUPU NO 28 RT 05 / RW 08 RANCAMANYAR BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+			<Cell><Data ss:Type="String">Ebek Juhana</Data></Cell>
+			<Cell><Data ss:Type="String">BEJ</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">082120390655</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">BLOK LUMBUNG RT 05 / RW 06 KEL. KEBON LEGA KEC. BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Pria</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">86</Data></Cell>
+			<Cell><Data ss:Type="String">Dedi</Data></Cell>
+			<Cell><Data ss:Type="String">DED</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">081395031111</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KOPO CIRANGRANG RT 06 / RW 04 BELAKANG KOPO ELOK KEC. MARGAHAYU BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+			<Cell><Data ss:Type="String">Dede Mulyana</Data></Cell>
+			<Cell><Data ss:Type="String">DMS</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">081322976377</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">SEKEAWI RT 01 / RW 04 DESA SAYATI  KEC. MARGAHAYU</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sandal Wanita</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+			<Cell><Data ss:Type="String">Fauzi</Data></Cell>
+			<Cell><Data ss:Type="String">FZI</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">085247677117</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN CIMUNCANG NO. 19 RT 01 / RW 14 MANGGAHANG BALEENDAH</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">89</Data></Cell>
+			<Cell><Data ss:Type="String">H. Didin</Data></Cell>
+			<Cell><Data ss:Type="String">HDN</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">085222541146</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">GAROGOL DESA MARGAASIH KEC. CICALENGKA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+			<Cell><Data ss:Type="String">Hasan</Data></Cell>
+			<Cell><Data ss:Type="String">HNS</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">08122189377</Data></Cell>
+			<Cell><Data ss:Type="String">081809744555</Data></Cell>
+			<Cell><Data ss:Type="String">KP. GAROGOL RT 03 / 06 RW DESA MARGAASIH KECAMATAN CICALENGKA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+			<Cell><Data ss:Type="String">Ipah Syarifah</Data></Cell>
+			<Cell><Data ss:Type="String">IRF</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">08812245515</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN LEUWIPANJANG NO. 7 BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+			<Cell><Data ss:Type="String">Imas Siti Rokayah</Data></Cell>
+			<Cell><Data ss:Type="String">ISR</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">085314948514</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. GAROGOL DESA MARGAASIH KECAMATAN CICALENGKA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+			<Cell><Data ss:Type="String">Aida Ratmini</Data></Cell>
+			<Cell><Data ss:Type="String">JAO</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">082118814850</Data></Cell>
+			<Cell><Data ss:Type="String">02657030550</Data></Cell>
+			<Cell><Data ss:Type="String">SUKAHENING RT 01 / RW 06 KAWALU TASIKMALAYA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+			<Cell><Data ss:Type="String">Nuriyanti</Data></Cell>
+			<Cell><Data ss:Type="String">JNR</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">087825094000</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN CIHUNI RT 02 / RW 05 DESA SUKAWENING GARUT (BELAKANG KANTOR DESA SUKAWENING)</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+			<Cell><Data ss:Type="String">Dani Ramdani</Data></Cell>
+			<Cell><Data ss:Type="String">JSR</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">081395289453</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN PASIR KOJA NO. 4 KOTA BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+			<Cell><Data ss:Type="String">Slamet / Memet</Data></Cell>
+			<Cell><Data ss:Type="String">MMT</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">081391471084</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">GUMURUH RT 05 / RW 06 DEKET TRANS STUDIO BUAH BATU</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">97</Data></Cell>
+			<Cell><Data ss:Type="String">H. Arifin</Data></Cell>
+			<Cell><Data ss:Type="String">MQI</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">0227277436</Data></Cell>
+			<Cell><Data ss:Type="String">081321721531</Data></Cell>
+			<Cell><Data ss:Type="String">JALAN PACUL EMPAT NO 11 BABAKAN SARI RT 07 / RW 11 KIARACONDONG BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+			<Cell><Data ss:Type="String">Junaedi / Mas Jun</Data></Cell>
+			<Cell><Data ss:Type="String">MRJ</Data></Cell>
+			<Cell><Data ss:Type="String">MRC</Data></Cell>
+			<Cell><Data ss:Type="String">081214444753</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">TOKO JAVA SEVEN JALAN INDRAYASA NO 69 CIBADUYUT BANDUNG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+			<Cell><Data ss:Type="String">Oki</Data></Cell>
+			<Cell><Data ss:Type="String">OKI</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">085314305333</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. GAROGOL RT 03 / RW 06 DESA MARGAASIH KEC. CICALENGKA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+			<Cell><Data ss:Type="String">Opik (Anak Ara Suhara)</Data></Cell>
+			<Cell><Data ss:Type="String">OPK</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">089606473355</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KEBON KALAPA RT O3 / RW 02 DESA MEKAR WANGI KEC. BOJONGLOA KIDUL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">101</Data></Cell>
+			<Cell><Data ss:Type="String">Nani Suryani</Data></Cell>
+			<Cell><Data ss:Type="String">RNR</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">085720422885</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. GAROGOL RT 01 / RW 12 DESA MARGAASIH KEC. CICALENGKA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">102</Data></Cell>
+			<Cell><Data ss:Type="String">Dadan Supardan</Data></Cell>
+			<Cell><Data ss:Type="String">SKR</Data></Cell>
+			<Cell><Data ss:Type="String">IKC</Data></Cell>
+			<Cell><Data ss:Type="String">085295856257</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. CITEUREUP RT 01 / RW 22 DESA MARGAASIH KECAMATAN MARGAASIH</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">103</Data></Cell>
+			<Cell><Data ss:Type="String">Supemi</Data></Cell>
+			<Cell><Data ss:Type="String">STM</Data></Cell>
+			<Cell><Data ss:Type="String">-</Data></Cell>
+			<Cell><Data ss:Type="String">08123309592</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">SENGKOL WETAN RT 01 / RW 16 DESA KARSAMENAK KECAMATAN KAWALU TASIK MALAYA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">104</Data></Cell>
+			<Cell><Data ss:Type="String">Asep Bima</Data></Cell>
+			<Cell><Data ss:Type="String">ABM</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">082127573703</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP.NUSA RT/02 RW/14 KEC. BALEENDAH</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">105</Data></Cell>
+			<Cell><Data ss:Type="String">H. Agus Saefulloh</Data></Cell>
+			<Cell><Data ss:Type="String">AGS</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">081221595678</Data></Cell>
+			<Cell><Data ss:Type="String">085323949333</Data></Cell>
+			<Cell><Data ss:Type="String">JLN.CIGONDEWAH HILIR RT/04/05 KP.CIKEEUS</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">106</Data></Cell>
+			<Cell><Data ss:Type="String">Akir</Data></Cell>
+			<Cell><Data ss:Type="String">AKR</Data></Cell>
+			<Cell><Data ss:Type="String">AKC</Data></Cell>
+			<Cell><Data ss:Type="String">00000000</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN CIPARAY TENGAH (BELAKANG SD BANDUNG)</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Dompet</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">107</Data></Cell>
+			<Cell><Data ss:Type="String">Ajat Sudrajat</Data></Cell>
+			<Cell><Data ss:Type="String">ALS</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">0821189699</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JALAN BABAKAN TASIKMALAYA RT 01 RW 09 DESA MARGASUKA KECAMATAN BABAKAN CIPARAY</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">108</Data></Cell>
+			<Cell><Data ss:Type="String">H. Agus Sukmana</Data></Cell>
+			<Cell><Data ss:Type="String">ALY</Data></Cell>
+			<Cell><Data ss:Type="String">ARC</Data></Cell>
+			<Cell><Data ss:Type="String">08122181045</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">PASIR LUYU</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">109</Data></Cell>
+			<Cell><Data ss:Type="String">Anwar</Data></Cell>
+			<Cell><Data ss:Type="String">ANR</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">085221195595</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">GANG IPONG RT 05 RW 02 CIBADUYUT</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">110</Data></Cell>
+			<Cell><Data ss:Type="String">Atim</Data></Cell>
+			<Cell><Data ss:Type="String">ATM</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">081320621150</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">CILEBAK TY/03 RW/04</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Dompet</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">111</Data></Cell>
+			<Cell><Data ss:Type="String">Asep Abas</Data></Cell>
+			<Cell><Data ss:Type="String">BAB</Data></Cell>
+			<Cell><Data ss:Type="String">BBC</Data></Cell>
+			<Cell><Data ss:Type="String">02293442564</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">CILEBAK</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">112</Data></Cell>
+			<Cell><Data ss:Type="String">Ujang Rohman</Data></Cell>
+			<Cell><Data ss:Type="String">CNZ</Data></Cell>
+			<Cell><Data ss:Type="String">CNC</Data></Cell>
+			<Cell><Data ss:Type="String">087824078855</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JL.BBK TAROGONG RT/06 RW/04</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">113</Data></Cell>
+			<Cell><Data ss:Type="String">Agus Cetuk</Data></Cell>
+			<Cell><Data ss:Type="String">GUS</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">082117232944</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">JL.CIBADUYUT RT/02 RW/010</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">114</Data></Cell>
+			<Cell><Data ss:Type="String">H. Rohidin Sallam</Data></Cell>
+			<Cell><Data ss:Type="String">HJR</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">081320777825</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">SITUTARATE RT/06 RW/01 NO 227</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">115</Data></Cell>
+			<Cell><Data ss:Type="String">H. Suherman / H. Uhe</Data></Cell>
+			<Cell><Data ss:Type="String">HJS</Data></Cell>
+			<Cell><Data ss:Type="String">HUC</Data></Cell>
+			<Cell><Data ss:Type="String">081394999967</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">RANCAMALANG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">116</Data></Cell>
+			<Cell><Data ss:Type="String">H. Burhan</Data></Cell>
+			<Cell><Data ss:Type="String">HSJ</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">02292935407</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">SOREANG LOKASI</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">117</Data></Cell>
+			<Cell><Data ss:Type="String">JAD</Data></Cell>
+			<Cell><Data ss:Type="String">JAD</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">00000000</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">XXXXX</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">118</Data></Cell>
+			<Cell><Data ss:Type="String">Jaenudin / Iki</Data></Cell>
+			<Cell><Data ss:Type="String">JDN</Data></Cell>
+			<Cell><Data ss:Type="String">YIC</Data></Cell>
+			<Cell><Data ss:Type="String">085220782990</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP. GAROGOL DESA MARGAASIH KECAMATAN CICALENGKA</Data></Cell>
+			<Cell><Data ss:Type="String">Supplier Tas Ransel dan Tas Anak</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">119</Data></Cell>
+			<Cell><Data ss:Type="String">Neng Mira</Data></Cell>
+			<Cell><Data ss:Type="String">JNE</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">081394424245</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KP BIRU RT 04/04 KEC CIKANCUNG CICALENGKA</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">120</Data></Cell>
+			<Cell><Data ss:Type="String">Uun</Data></Cell>
+			<Cell><Data ss:Type="String">JNU</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">081573064322</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KEBON KALAPA RT/04 RW/02</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">121</Data></Cell>
+			<Cell><Data ss:Type="String">Usep</Data></Cell>
+			<Cell><Data ss:Type="String">JPU</Data></Cell>
+			<Cell><Data ss:Type="String">USC</Data></Cell>
+			<Cell><Data ss:Type="String">085222398488</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">LEUWI MUNDING SOREANG</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">122</Data></Cell>
+			<Cell><Data ss:Type="String">Jaka</Data></Cell>
+			<Cell><Data ss:Type="String">JSA</Data></Cell>
+			<Cell><Data ss:Type="String">JKC</Data></Cell>
+			<Cell><Data ss:Type="String">081395556477</Data></Cell>
+			<Cell><Data ss:Type="String">02291982677</Data></Cell>
+			<Cell><Data ss:Type="String">JALAN PAGARSIH</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">123</Data></Cell>
+			<Cell><Data ss:Type="String">Soleh Sawaludin (GARSEL)</Data></Cell>
+			<Cell><Data ss:Type="String">JSS</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">082217467393</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">GARSEL</Data></Cell>
+			<Cell><Data ss:Type="String">Produksi Tas</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
