@@ -32,7 +32,7 @@ $this->params['breadcrumbs'][] = $this->title;
             'telepon1',
             // 'telepon2',
             'alamat',
-            'keterangan',
+            // 'keterangan',
 
             ['class' => 'yii\grid\ActionColumn'],
         ],
