@@ -9,9 +9,11 @@ use Yii;
  *
  * @property integer $idsupplier
  * @property string $nama
- * @property string $alamat
+ * @property string $java
+ * @property string $cbr
  * @property string $telepon1
  * @property string $telepon2
+ * @property string $alamat
  * @property string $keterangan
  */
 class Supplier extends \yii\db\ActiveRecord
@@ -30,10 +32,11 @@ class Supplier extends \yii\db\ActiveRecord
     public function rules()
     {
         return [
-            [['nama', 'alamat', 'telepon1'], 'required'],
+            [['nama', 'telepon1', 'alamat'], 'required'],
             [['nama'], 'string', 'max' => 50],
-            [['alamat', 'keterangan'], 'string', 'max' => 200],
-            [['telepon1', 'telepon2'], 'string', 'max' => 15]
+            [['java', 'cbr'], 'string', 'max' => 3],
+            [['telepon1', 'telepon2'], 'string', 'max' => 15],
+            [['alamat', 'keterangan'], 'string', 'max' => 200]
         ];
     }
 
@@ -43,11 +46,13 @@ class Supplier extends \yii\db\ActiveRecord
     public function attributeLabels()
     {
         return [
-            'idsupplier' => 'Idsupplier',
+            'idsupplier' => 'ID',
             'nama' => 'Nama',
+            'java' => 'JAVA',
+            'cbr' => 'CBR',
+            'telepon1' => 'Telepon',
+            'telepon2' => 'Telp. Alternatif',
             'alamat' => 'Alamat',
-            'telepon1' => 'Telepon1',
-            'telepon2' => 'Telepon2',
             'keterangan' => 'Keterangan',
         ];
     }

@@ -16,7 +16,7 @@ $this->title = 'BASAMA - Order Barang';
             if (Yii::$app->user->isGuest) {
                 echo Html::a('<span class="glyphicon glyphicon-lock"></span> Masuk',
                     ['/site/login'],
-                    ['class'=>'btn btn-primary']
+                    ['class'=>'btn btn-success']
                 );
             }        
         ?>

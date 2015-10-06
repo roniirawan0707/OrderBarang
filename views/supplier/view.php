@@ -7,7 +7,7 @@ use yii\widgets\DetailView;
 /* @var $model app\models\Supplier */
 
 $this->title = $model->idsupplier;
-$this->params['breadcrumbs'][] = ['label' => 'Suppliers', 'url' => ['index']];
+$this->params['breadcrumbs'][] = ['label' => 'Daftar Supplier', 'url' => ['index']];
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="supplier-view">
@@ -15,11 +15,11 @@ $this->params['breadcrumbs'][] = $this->title;
     <h1><?= Html::encode($this->title) ?></h1>
 
     <p>
-        <?= Html::a('Update', ['update', 'id' => $model->idsupplier], ['class' => 'btn btn-primary']) ?>
-        <?= Html::a('Delete', ['delete', 'id' => $model->idsupplier], [
+        <?= Html::a('Ubah', ['update', 'id' => $model->idsupplier], ['class' => 'btn btn-primary']) ?>
+        <?= Html::a('Hapus', ['delete', 'id' => $model->idsupplier], [
             'class' => 'btn btn-danger',
             'data' => [
-                'confirm' => 'Are you sure you want to delete this item?',
+                'confirm' => 'Anda yakin akan menghapus data ini?',
                 'method' => 'post',
             ],
         ]) ?>
@@ -30,9 +30,11 @@ $this->params['breadcrumbs'][] = $this->title;
         'attributes' => [
             'idsupplier',
             'nama',
-            'alamat',
+            'java',
+            'cbr',
             'telepon1',
             'telepon2',
+            'alamat',
             'keterangan',
         ],
     ]) ?>

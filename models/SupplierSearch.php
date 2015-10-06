@@ -19,7 +19,7 @@ class SupplierSearch extends Supplier
     {
         return [
             [['idsupplier'], 'integer'],
-            [['nama', 'alamat', 'telepon1', 'telepon2', 'keterangan'], 'safe'],
+            [['nama', 'java', 'cbr', 'telepon1', 'telepon2', 'alamat', 'keterangan'], 'safe'],
         ];
     }
 
@@ -60,9 +60,11 @@ class SupplierSearch extends Supplier
         ]);
 
         $query->andFilterWhere(['like', 'nama', $this->nama])
-            ->andFilterWhere(['like', 'alamat', $this->alamat])
+            ->andFilterWhere(['like', 'java', $this->java])
+            ->andFilterWhere(['like', 'cbr', $this->cbr])
             ->andFilterWhere(['like', 'telepon1', $this->telepon1])
             ->andFilterWhere(['like', 'telepon2', $this->telepon2])
+            ->andFilterWhere(['like', 'alamat', $this->alamat])
             ->andFilterWhere(['like', 'keterangan', $this->keterangan]);
 
         return $dataProvider;

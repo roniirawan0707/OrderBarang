@@ -19,11 +19,15 @@ use yii\widgets\ActiveForm;
 
     <?= $form->field($model, 'nama') ?>
 
-    <?= $form->field($model, 'alamat') ?>
+    <?= $form->field($model, 'java') ?>
+
+    <?= $form->field($model, 'cbr') ?>
 
     <?= $form->field($model, 'telepon1') ?>
 
-    <?= $form->field($model, 'telepon2') ?>
+    <?php // echo $form->field($model, 'telepon2') ?>
+
+    <?php // echo $form->field($model, 'alamat') ?>
 
     <?php // echo $form->field($model, 'keterangan') ?>
 
