@@ -39,7 +39,7 @@ AppAsset::register($this);
                 'label' => 'Master',
                 'items' => [                                        
                     ['label' => 'Supplier', 'url' => ['/supplier/index']],                    
-                    ['label' => 'Barang', 'url' => ['/supplier/index']],
+                    ['label' => 'Barang', 'url' => ['/barang/index']],
                     '<li class="divider"></li>',
                     '<li class="dropdown-header">Migrasi Data</li>',
                     ['label' => 'Import Data Stok', 'url' => ['/supplier/index']],

@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 06, 2015 at 01:47 PM
+-- Generation Time: Oct 09, 2015 at 12:52 PM
 -- Server version: 5.5.27
 -- PHP Version: 5.4.7
 
@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS `supplier` (
   `alamat` varchar(200) NOT NULL,
   `keterangan` varchar(200) DEFAULT NULL,
   PRIMARY KEY (`idsupplier`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=124 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=148 ;
 
 --
 -- Dumping data for table `supplier`
@@ -68,7 +68,7 @@ INSERT INTO `supplier` (`idsupplier`, `nama`, `java`, `cbr`, `telepon1`, `telepo
 (23, 'H. Arif', '-', 'HFC', '081320199887', '082117849948', 'SITUTARATE RT 02 / RW 022 DESA CANGKUANG KULON KEC. DAYEUHKOLOT', 'Produksi Sepatu'),
 (24, 'H. Ahid', 'AHD', 'HIC', '082126403468', '', 'BINONG JATI RT 08 / RW 03 NO. 58 KOTA BANDUNG', 'Produksi Tas'),
 (25, 'H. Dudeng', 'HJD', 'HMC', '081320389000', '', 'SITU TARATE RT 05 / RW 01 DESA CANGKUANG KULON KECAMATAN DAYEUHKOLOT', 'Produksi Sepatu'),
-(26, 'Agil', 'GIL', 'ILC', '085846626628', '', 'CIHARASHAS RT 05 / RW 07 DESA SIRNAGALIH KECAMATAN CILAKU KAB. CIANJUR', 'Produksi Dompet'),
+(26, 'Agil', 'AGL', 'ILC', '085846626628', '', 'CIHARASHAS RT 05 / RW 07 DESA SIRNAGALIH KECAMATAN CILAKU KAB. CIANJUR', 'Produksi Dompet'),
 (27, 'Indra Mastoti', 'DRA', 'INC', '08122388451', '', 'JL BAHAGIA PERMAI 1 NO. 26 MARGA CINTA KOMP. BAHAGIA PERMAI', 'Produksi Oblong'),
 (28, 'Iwan Kartiwan (SOGA)', 'JTO', 'IOC', '081394080909', '', 'BABAKAN TVRI 5 KEL. CIBADUYUT KEC. BOJONGLOA KIDUL', 'Produksi Tas dan Sepatu'),
 (29, 'IWAN ZAKARIA', 'IRJ', 'IRC', '082117781707', '', 'KP. CIODENG TIMUR RT 06 / RW 08 DESA BOJONGMALAKA KECAMATAN BALEENDAH', 'Produksi Sepatu'),
@@ -111,8 +111,7 @@ INSERT INTO `supplier` (`idsupplier`, `nama`, `java`, `cbr`, `telepon1`, `telepo
 (66, 'Ayi Firmansyah', 'AYJ', 'SYC', '087825497089', '', 'KP. BABAKAN JATI RT 03 / RW 09 MARIPARI 	SUKAWENING GARUT / Gg. TVRI 5 RT 05 / RW 01', 'Produksi Sepatu'),
 (67, 'Abdul Fatah', 'BJF', 'TFC', '0878823018355', '', 'CIKAMANDILAN RT 01 / RW 02 KELURAHAN CIBADUYUT KECAMATAN BOJONGLOA KIDUL', 'Produksi Sepatu Pantople'),
 (68, 'Tomi', 'TOM', 'TMC', '085295760097', '08772484142', 'KP. BANGBAYANG RT 03 / RW 08 DESA KARANGMULYA KECAMATAN KADUNGORA', 'Produksi Sarung Tangan'''),
-(69, 'Tomi', 'TOM', 'TMC', '085295760097', '08772484142', 'KP. BANGBAYANG RT 03 / RW 08 DESA KARANGMULYA KECAMATAN KADUNGORA', 'Produksi Sarung Tangan'),
-(70, 'Tatan', 'TAN', 'TNC', '089655965971', '', 'KP. SAMPORA RT 03 / RW 04 DESA MARGAHAYU KECAMATAN SUKAMENAK', 'Produksi Sepatu Wanita'),
+(70, 'Tatan', 'TAN', 'TNC', '082317500228', '089655965971', 'KP. SAMPORA RT 03 / RW 04 DESA MARGAHAYU KECAMATAN SUKAMENAK', 'Produksi Sepatu Wanita'),
 (71, 'Uden', 'UEJ', 'UEC', '081809713380', '', 'JALAN PETA GANG SINDANG ASIH RT 04 / RW 04 KEL. SUKA ASIH KECAMATAN BOJONG LOA KALER', 'Produksi Sepatu'),
 (72, 'Anwar', 'ANW', 'WRC', '085223486166', '', 'KP. BABAKAN ABID RT 02 / RW 01 DESA SUCIKALER KEC. KARANGPAWITAN KAB. GARUT', 'Produksi Sarung Tangan dan Jaket'),
 (73, 'Wahyu', 'WHY', 'WUC', '08882122377', '', 'BLOK SEPATU (BELAKANG GARSEL) KEL. CIBADUYUT KECAMATAN BOJONG LOA KIDUL', 'Produksi Sandal Pria'),
@@ -128,44 +127,68 @@ INSERT INTO `supplier` (`idsupplier`, `nama`, `java`, `cbr`, `telepon1`, `telepo
 (83, 'Sobandi / Alex', 'ALX', 'LXC', '081322179951', '', 'PERUMAHAN TAMAN CILEUNYI KECAMATAN CILEUNYI (BELAKANG BUMI PANYAWANGAN)', 'Produksi Fashion'),
 (84, 'Asep Nurrohman', 'ASN', '-', '087825555146', '', 'JALAN CUPU NO 28 RT 05 / RW 08 RANCAMANYAR BANDUNG', 'Produksi Fashion'),
 (85, 'Ebek Juhana', 'BEJ', '-', '082120390655', '', 'BLOK LUMBUNG RT 05 / RW 06 KEL. KEBON LEGA KEC. BOJONGLOA KIDUL', 'Produksi Sandal Pria'),
-(86, 'Dedi', 'DED', '-', '081395031111', '', 'KOPO CIRANGRANG RT 06 / RW 04 BELAKANG KOPO ELOK KEC. MARGAHAYU BANDUNG', 'Produksi Fashion'),
+(86, 'Dedi', 'DED', 'FFC', '081395031111', '', 'KOPO CIRANGRANG RT 06 / RW 04 BELAKANG KOPO ELOK KEC. MARGAHAYU BANDUNG', 'Produksi Fashion'),
 (87, 'Dede Mulyana', 'DMS', '-', '081322976377', '', 'SEKEAWI RT 01 / RW 04 DESA SAYATI 	KEC. MARGAHAYU', 'Produksi Sandal Wanita'),
-(88, 'Fauzi', 'FZI', '-', '085247677117', '', 'JALAN CIMUNCANG NO. 19 RT 01 / RW 14 MANGGAHANG BALEENDAH', 'Produksi Fashion'),
+(88, 'Fauzi', 'FZI', 'FZC', '085247677117', '', 'JALAN CIMUNCANG NO. 19 RT 01 / RW 14 MANGGAHANG BALEENDAH', 'Produksi Fashion'),
 (89, 'H. Didin', 'HDN', '-', '085222541146', '', 'GAROGOL DESA MARGAASIH KEC. CICALENGKA', 'Produksi Fashion'),
 (90, 'Hasan', 'HNS', '-', '08122189377', '081809744555', 'KP. GAROGOL RT 03 / 06 RW DESA MARGAASIH KECAMATAN CICALENGKA', 'Produksi Fashion'),
 (91, 'Ipah Syarifah', 'IRF', '-', '08812245515', '', 'JALAN LEUWIPANJANG NO. 7 BANDUNG', 'Produksi Fashion'),
 (92, 'Imas Siti Rokayah', 'ISR', '-', '085314948514', '', 'KP. GAROGOL DESA MARGAASIH KECAMATAN CICALENGKA', 'Produksi Fashion'),
 (93, 'Aida Ratmini', 'JAO', '-', '082118814850', '02657030550', 'SUKAHENING RT 01 / RW 06 KAWALU TASIKMALAYA', 'Produksi Fashion'),
-(94, 'Nuriyanti', 'JNR', '-', '087825094000', '', 'JALAN CIHUNI RT 02 / RW 05 DESA SUKAWENING GARUT (BELAKANG KANTOR DESA SUKAWENING)', 'Produksi Tas'),
+(94, 'Nuriyanti', 'JNR', 'NYC', '087825094000', '', 'JALAN CIHUNI RT 02 / RW 05 DESA SUKAWENING GARUT (BELAKANG KANTOR DESA SUKAWENING)', 'Produksi Tas'),
 (95, 'Dani Ramdani', 'JSR', '-', '081395289453', '', 'JALAN PASIR KOJA NO. 4 KOTA BANDUNG', 'Produksi Fashion'),
 (96, 'Slamet / Memet', 'MMT', '-', '081391471084', '', 'GUMURUH RT 05 / RW 06 DEKET TRANS STUDIO BUAH BATU', 'Produksi Fashion'),
-(97, 'H. Arifin', 'MQI', '-', '0227277436', '081321721531', 'JALAN PACUL EMPAT NO 11 BABAKAN SARI RT 07 / RW 11 KIARACONDONG BANDUNG', 'Produksi Fashion'),
+(97, 'H. Arifin', 'MQI', 'MQC', '0227277436', '081321721531', 'JALAN PACUL EMPAT NO 11 BABAKAN SARI RT 07 / RW 11 KIARACONDONG BANDUNG', 'Produksi Fashion'),
 (98, 'Junaedi / Mas Jun', 'MRJ', 'MRC', '081214444753', '', 'TOKO JAVA SEVEN JALAN INDRAYASA NO 69 CIBADUYUT BANDUNG', 'Produksi Fashion'),
 (99, 'Oki', 'OKI', '-', '085314305333', '', 'KP. GAROGOL RT 03 / RW 06 DESA MARGAASIH KEC. CICALENGKA', 'Produksi Fashion'),
-(100, 'Opik (Anak Ara Suhara)', 'OPK', '-', '089606473355', '', 'KEBON KALAPA RT O3 / RW 02 DESA MEKAR WANGI KEC. BOJONGLOA KIDUL', 'Produksi Sepatu'),
+(100, 'Opik (Anak Ara Suhara)', 'OPK', 'POC', '089606473355', '', 'KEBON KALAPA RT O3 / RW 02 DESA MEKAR WANGI KEC. BOJONGLOA KIDUL', 'Produksi Sepatu'),
 (101, 'Nani Suryani', 'RNR', '-', '085720422885', '', 'KP. GAROGOL RT 01 / RW 12 DESA MARGAASIH KEC. CICALENGKA', 'Produksi Fashion'),
 (102, 'Dadan Supardan', 'SKR', 'IKC', '085295856257', '', 'KP. CITEUREUP RT 01 / RW 22 DESA MARGAASIH KECAMATAN MARGAASIH', 'Produksi Fashion'),
 (103, 'Supemi', 'STM', '-', '08123309592', '', 'SENGKOL WETAN RT 01 / RW 16 DESA KARSAMENAK KECAMATAN KAWALU TASIK MALAYA', 'Produksi Fashion'),
 (104, 'Asep Bima', 'ABM', '', '082127573703', '', 'KP.NUSA RT/02 RW/14 KEC. BALEENDAH', 'Produksi Sepatu'),
 (105, 'H. Agus Saefulloh', 'AGS', '', '081221595678', '085323949333', 'JLN.CIGONDEWAH HILIR RT/04/05 KP.CIKEEUS', 'Produksi Fashion'),
 (106, 'Akir', 'AKR', 'AKC', '00000000', '', 'JALAN CIPARAY TENGAH (BELAKANG SD BANDUNG)', 'Produksi Dompet'),
-(107, 'Ajat Sudrajat', 'ALS', '', '0821189699', '', 'JALAN BABAKAN TASIKMALAYA RT 01 RW 09 DESA MARGASUKA KECAMATAN BABAKAN CIPARAY', 'Produksi Tas'),
+(107, 'Ajat Sudrajat', 'ALS', 'JTC', '0821189699', '', 'JALAN BABAKAN TASIKMALAYA RT 01 RW 09 DESA MARGASUKA KECAMATAN BABAKAN CIPARAY', 'Produksi Tas'),
 (108, 'H. Agus Sukmana', 'ALY', 'ARC', '08122181045', '', 'PASIR LUYU', 'Produksi Fashion'),
-(109, 'Anwar', 'ANR', '', '085221195595', '', 'GANG IPONG RT 05 RW 02 CIBADUYUT', 'Produksi Sepatu'),
-(110, 'Atim', 'ATM', '', '081320621150', '', 'CILEBAK TY/03 RW/04', 'Produksi Dompet'),
+(109, 'Anwar Nasihin', 'ANR', 'AWC', '085221195595', '', 'GANG IPONG RT 05 RW 02 CIBADUYUT', 'Produksi Sepatu'),
+(110, 'Atim', 'ATM', 'AIC', '081320621150', '081322367070', 'CILEBAK TY/03 RW/04', 'Produksi Dompet'),
 (111, 'Asep Abas', 'BAB', 'BBC', '02293442564', '', 'CILEBAK', 'Produksi Sepatu'),
 (112, 'Ujang Rohman', 'CNZ', 'CNC', '087824078855', '', 'JL.BBK TAROGONG RT/06 RW/04', 'Produksi Sepatu'),
 (113, 'Agus Cetuk', 'GUS', '', '082117232944', '', 'JL.CIBADUYUT RT/02 RW/010', 'Produksi Sepatu'),
-(114, 'H. Rohidin Sallam', 'HJR', '', '081320777825', '', 'SITUTARATE RT/06 RW/01 NO 227', 'Produksi Sepatu'),
+(114, 'H. Rohidin Sallam', 'HJR', 'RHC', '081320777825', '', 'SITUTARATE RT/06 RW/01 NO 227', 'Produksi Sepatu'),
 (115, 'H. Suherman / H. Uhe', 'HJS', 'HUC', '081394999967', '', 'RANCAMALANG', 'Produksi Fashion'),
 (116, 'H. Burhan', 'HSJ', '', '02292935407', '', 'SOREANG LOKASI', 'Produksi Fashion'),
-(117, 'JAD', 'JAD', '', '00000000', '', 'XXXXX', 'Produksi Sepatu'),
+(117, 'Fitri', 'JAD', 'KKC', '00000000', '', 'CIBADUYUT LAMA GANG IBU IDA', 'Produksi Sepatu'),
 (118, 'Jaenudin / Iki', 'JDN', 'YIC', '085220782990', '', 'KP. GAROGOL DESA MARGAASIH KECAMATAN CICALENGKA', 'Supplier Tas Ransel dan Tas Anak'),
 (119, 'Neng Mira', 'JNE', '', '081394424245', '', 'KP BIRU RT 04/04 KEC CIKANCUNG CICALENGKA', 'Produksi Fashion'),
 (120, 'Uun', 'JNU', '', '081573064322', '', 'KEBON KALAPA RT/04 RW/02', 'Produksi Sepatu'),
 (121, 'Usep', 'JPU', 'USC', '085222398488', '', 'LEUWI MUNDING SOREANG', 'Produksi Fashion'),
 (122, 'Jaka', 'JSA', 'JKC', '081395556477', '02291982677', 'JALAN PAGARSIH', 'Produksi Sepatu'),
-(123, 'Soleh Sawaludin (GARSEL)', 'JSS', '', '082217467393', '', 'GARSEL', 'Produksi Tas');
+(123, 'Soleh Sawaludin (GARSEL)', 'JSS', '', '082217467393', '', 'GARSEL', 'Produksi Tas'),
+(124, 'Wahyu', 'FIX', '', '082219337691', '081224280875', 'SITU TARATE RT 04 RW 01 CIBADUYUT', 'Produksi Sandal Pria'),
+(125, 'Heri (Supplier Kulit)', 'HRI', 'KHC', '082117559317', '085320405808', 'JALAN GAGAK LUMAYUNG SUKAREGANG', 'Supplier Kulit'),
+(126, 'Hj. Iis', 'JHI', '', '08121098223', '', 'KP KEBON KAPAS KULON CICALENGKA RT 02/08 DS WALUYA', 'Produksi Fashion'),
+(127, 'Iman', 'JIM', '', '085220245635', '', 'JL TARUNA SUKAHENING OTA TASIK MALAYA', 'Produksi Fashion'),
+(128, 'Muhkodir', 'KNR', 'MKC', '085777768848', '', 'LEUWIPANJANG RT/04 RW/09 BANDUNG', 'Produksi Fashion'),
+(129, 'Kurnia (GOLFER)', 'KRN', 'RRC', '08562082434', '', 'TOKO GOLFER CIBADUYUT BANDUNG', 'Produksi Tas'),
+(130, 'Lalan / Istri Asep Majid', 'LAN', 'MJC', '085624142780', '', 'BLOK SAPATU RT/02 RW/04', 'Produksi Sandal Gunung'),
+(131, 'Lilis Nurhayati', 'LLS', '', '082121991022', '082116858991', 'KP.BABAKAN RANCA MANYAR RT 03 RW 09 BALEENDAH', 'Produksi Fashion'),
+(132, 'Anna (ASIA SHOES)', 'LST', 'WAC', '0224220660', '', 'JALAN CIBADAK NO 80 BANDUNG', 'Produksi Sepatu'),
+(133, 'Nadia', 'NDA', '', '081321225540', '', 'KOPO PERMAI 2 BLOK 3A NO D/7', 'Produksi Fashion'),
+(134, 'Olih Solihin', 'OTS', '', '085222373872', '', 'KP. JATI SOREANG', 'Produksi Fashion'),
+(135, 'Rika Kartika', 'RIK', '', '089660121599', '', 'KP GAROGOL RT 03/06 DES MARGAASIH KEC.CICALENGKA', 'Produksi Fashion'),
+(136, 'Ratna', 'RTN', 'RAC', '082127227576', '', 'PARAKAN MUNCANG JL.BANDUNG GARUT KM.27 RT/03 RW/03', 'Produksi Fashion'),
+(137, 'Suhendi', 'SHN', 'HNC', '085320589382', '', 'JLN.CIBADUYUT CIPARAY TENGAH RT/04 RW/05', 'Produksi Sepatu Wanita'),
+(138, 'Uman', 'UMN', 'UAC', '081573282655', '', 'SUKAREGANG PASANTREN GARUT', 'Produksi Sarung Tangan'),
+(139, 'Ai Widaningsih', 'WDN', '', '085717748076', '', 'BAYONGBONG KP.KALANGSARI RT/02 RW/02 CISURUPAN GARUT', 'Produksi Tas'),
+(140, 'Iyos', 'YOS', '', '085956517012', '', 'CIKAMANDILAN GG.MAEJA RT.03/03 CIBADUYUT', 'Produksi Sepatu'),
+(141, 'Adin', 'ADN', 'ADC', '02292935407', '', 'SOREANG LOKASI', 'Produksi Fashion'),
+(142, 'Heni', '', 'BHC', '087821304477', '', 'WARUNG NANGKA', 'Produksi Sepatu dan Tas Anak'),
+(143, 'Ika', '', 'IAC', '082216925785', '', 'KOPO SAYATI', 'Produksi Tas'),
+(144, 'RIKI', 'RKY', 'KYC', '081320703397', '', 'PASIR LUYU', 'Produksi Jaket'),
+(145, 'Heri Siswanto', 'HRA', 'MLC', '085222285394', '', 'BLOK LUMBUNG', 'Produksi Sepatu Wanita'),
+(146, 'Hj. Neni', '', 'NEC', '085314036200', '', 'GANG IPONG RT 05 / RW 02 KEL. CIBADUYUT WETAN KEC. BOJONGLOA KIDUL', 'Produksi Sepatu'),
+(147, 'Casmedi', '', 'ESC', '085295032228', '', 'KOMP. ANGKASA MEKAR KAV. 64 CIBADUYUT BANDUNG', 'Produksi Dompet');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

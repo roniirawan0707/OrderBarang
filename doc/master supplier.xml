@@ -706,16 +706,6 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 			<Cell><Data ss:Type="String">Produksi Sarung Tangan&#39;</Data></Cell>
 		</Row>
 		<Row>
-			<Cell><Data ss:Type="Number">69</Data></Cell>
-			<Cell><Data ss:Type="String">Tomi</Data></Cell>
-			<Cell><Data ss:Type="String">TOM</Data></Cell>
-			<Cell><Data ss:Type="String">TMC</Data></Cell>
-			<Cell><Data ss:Type="String">085295760097</Data></Cell>
-			<Cell><Data ss:Type="String">08772484142</Data></Cell>
-			<Cell><Data ss:Type="String">KP. BANGBAYANG RT 03 / RW 08 DESA KARANGMULYA KECAMATAN KADUNGORA</Data></Cell>
-			<Cell><Data ss:Type="String">Produksi Sarung Tangan</Data></Cell>
-		</Row>
-		<Row>
 			<Cell><Data ss:Type="Number">70</Data></Cell>
 			<Cell><Data ss:Type="String">Tatan</Data></Cell>
 			<Cell><Data ss:Type="String">TAN</Data></Cell>
@@ -1187,12 +1177,12 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 		</Row>
 		<Row>
 			<Cell><Data ss:Type="Number">117</Data></Cell>
+			<Cell><Data ss:Type="String">Fitri</Data></Cell>
 			<Cell><Data ss:Type="String">JAD</Data></Cell>
-			<Cell><Data ss:Type="String">JAD</Data></Cell>
-			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">KKC</Data></Cell>
 			<Cell><Data ss:Type="String">00000000</Data></Cell>
 			<Cell><Data ss:Type="String"></Data></Cell>
-			<Cell><Data ss:Type="String">XXXXX</Data></Cell>
+			<Cell><Data ss:Type="String">CIBADUYUT LAMA GANG IBU IDA</Data></Cell>
 			<Cell><Data ss:Type="String">Produksi Sepatu</Data></Cell>
 		</Row>
 		<Row>
