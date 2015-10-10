@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 09, 2015 at 12:52 PM
+-- Generation Time: Oct 10, 2015 at 11:39 AM
 -- Server version: 5.5.27
 -- PHP Version: 5.4.7
 
@@ -5806,7 +5806,7 @@ INSERT INTO `supplier` (`idsupplier`, `nama`, `java`, `cbr`, `telepon1`, `telepo
 (87, 'Dede Mulyana', 'DMS', '-', '081322976377', '', 'SEKEAWI RT 01 / RW 04 DESA SAYATI 	KEC. MARGAHAYU', 'Produksi Sandal Wanita'),
 (88, 'Fauzi', 'FZI', 'FZC', '085247677117', '', 'JALAN CIMUNCANG NO. 19 RT 01 / RW 14 MANGGAHANG BALEENDAH', 'Produksi Fashion'),
 (89, 'H. Didin', 'HDN', '-', '085222541146', '', 'GAROGOL DESA MARGAASIH KEC. CICALENGKA', 'Produksi Fashion'),
-(90, 'Hasan', 'HNS', '-', '08122189377', '081809744555', 'KP. GAROGOL RT 03 / 06 RW DESA MARGAASIH KECAMATAN CICALENGKA', 'Produksi Fashion'),
+(90, 'Hasan', 'HNS', '-', '089623039294', '089612394210', 'KP. GAROGOL RT 03 / 06 RW DESA MARGAASIH KECAMATAN CICALENGKA', 'Produksi Fashion'),
 (91, 'Ipah Syarifah', 'IRF', '-', '08812245515', '', 'JALAN LEUWIPANJANG NO. 7 BANDUNG', 'Produksi Fashion'),
 (92, 'Imas Siti Rokayah', 'ISR', '-', '085314948514', '', 'KP. GAROGOL DESA MARGAASIH KECAMATAN CICALENGKA', 'Produksi Fashion'),
 (93, 'Aida Ratmini', 'JAO', '-', '082118814850', '02657030550', 'SUKAHENING RT 01 / RW 06 KAWALU TASIKMALAYA', 'Produksi Fashion'),
