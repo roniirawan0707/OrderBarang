@@ -42,8 +42,8 @@ AppAsset::register($this);
                     ['label' => 'Barang', 'url' => ['/barang/index']],
                     '<li class="divider"></li>',
                     '<li class="dropdown-header">Migrasi Data</li>',
-                    ['label' => 'Import Data Stok', 'url' => ['/supplier/index']],
-                    ['label' => 'Import Data Penjualan', 'url' => ['/supplier/index']],                    
+                    ['label' => 'Import Data Stok', 'url' => ['/barang/importstok']],
+                    ['label' => 'Import Data Penjualan', 'url' => ['/barang/importpenjualan']],                    
                 ],
             ],            
             Yii::$app->user->isGuest ? '' : 

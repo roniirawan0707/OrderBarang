@@ -23,6 +23,8 @@ use Yii;
  */
 class Barang extends \yii\db\ActiveRecord
 {
+
+    public $file;
     /**
      * @inheritdoc
      */
@@ -63,8 +65,9 @@ class Barang extends \yii\db\ActiveRecord
             'hj' => 'Hj',
             'toko' => 'Toko',
             'status' => 'Status',
-            'idSupplier' => 'Id Supplier',
+            'idSupplier' => 'Nama Supplier',
             'jual' => 'Penjualan',
+            'file' => '',
         ];
     }
 

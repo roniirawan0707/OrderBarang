@@ -118,4 +118,16 @@ class BarangController extends Controller
             throw new NotFoundHttpException('The requested page does not exist.');
         }
     }
+
+    public function actionImportstok()
+    {
+        $model = new Barang();
+        return $this->render('importstok', ['model' => $model]);
+    }
+
+    public function actionImportpenjualan()
+    {
+        $model = new Barang();
+        return $this->render('importpenjualan', ['model' => $model]);
+    }
 }

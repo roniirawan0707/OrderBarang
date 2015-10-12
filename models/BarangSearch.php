@@ -18,8 +18,8 @@ class BarangSearch extends Barang
     public function rules()
     {
         return [
-            [['id', 'kode', 'warna', 'size', 'toko', 'status'], 'safe'],
-            [['stok', 'hpp', 'hj', 'idSupplier', 'jual'], 'integer'],
+            [['id', 'kode', 'warna', 'idSupplier', 'size', 'toko', 'status'], 'safe'],
+            [['stok', 'hpp', 'hj', 'jual'], 'integer'],
         ];
     }
 
@@ -55,11 +55,13 @@ class BarangSearch extends Barang
             return $dataProvider;
         }
 
+        $query->joinWith('idSupplier0');
+
         $query->andFilterWhere([
             'stok' => $this->stok,
             'hpp' => $this->hpp,
             'hj' => $this->hj,
-            'idSupplier' => $this->idSupplier,
+            // 'idSupplier' => $this->idSupplier,
             'jual' => $this->jual,
         ]);
 
@@ -68,7 +70,8 @@ class BarangSearch extends Barang
             ->andFilterWhere(['like', 'warna', $this->warna])
             ->andFilterWhere(['like', 'size', $this->size])
             ->andFilterWhere(['like', 'toko', $this->toko])
-            ->andFilterWhere(['like', 'status', $this->status]);
+            ->andFilterWhere(['like', 'status', $this->status])
+            ->andFilterWhere(['like', 'supplier.nama', $this->idSupplier]);
 
         return $dataProvider;
     }
