@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 10, 2015 at 11:39 AM
+-- Generation Time: Oct 25, 2015 at 10:58 AM
 -- Server version: 5.5.27
 -- PHP Version: 5.4.7
 
@@ -5761,7 +5761,7 @@ INSERT INTO `supplier` (`idsupplier`, `nama`, `java`, `cbr`, `telepon1`, `telepo
 (41, 'Mahmud', 'MHD', 'MHC', '082214850428', '', 'GANG MA EJA RT 02 / RW 03 KEL. CIBADUYUT KECAMATAN BOJONGLOA KIDUL', 'Produksi Sepatu'),
 (42, 'Iman', 'IMN', 'MIC', '085234142532', '', 'KP. HEUBEUL ISUK RT 02 / RW 09 DESA SUKAJADI KECAMATAN SOREANG', 'Produksi Sandal Wanita'),
 (43, 'Pian', 'PIN', 'MPC', '081220358393', '', 'KOMP. ANGKASA MEKAR KAV. 64 CIBADUYUT BANDUNG', 'Produksi Jaket'),
-(44, 'Imas Sopiah', 'ISS', 'MSC', '085794450930', '089680594935', 'JALAN CIBADUYUT GANG KOPSI RT 03 / RW 03 CIBADUYUT BANDUNG', 'Produksi Sandal Anak'),
+(44, 'Imas Sopiah', 'ISS', 'MSC', '085794421565', '089680594935', 'JALAN CIBADUYUT GANG KOPSI RT 03 / RW 03 CIBADUYUT BANDUNG', 'Produksi Sandal Anak'),
 (45, 'Mulyana', 'MLY', 'MUC', '089505022158', '', 'BLOK LUMBUNG RT 03 / RW 02 KELURAHAN CIBADUYUT KECAMATAN BOJONG LOA KIDUL', 'Produksi Sepatu Wanita'),
 (46, 'Sunandar / Enay', 'SND', 'NAC', '02285872341', '082118458749', 'KP. BOJONG RT 03 / RW 01 DESA SUKAMUKTI KECAMATAN KATAPANG', 'Produksi Sepatu'),
 (47, 'Neng Wiwin', 'NEG', 'NNC', '082120390655', '', 'KOMPLEK LEUWISARI 5 NO 194 BELAKANG FUTSAL IDOLA KEL. KEBON LEGA KEC. BOJONG LOA KIDUL', 'Produksi Rajut'),
@@ -5824,7 +5824,7 @@ INSERT INTO `supplier` (`idsupplier`, `nama`, `java`, `cbr`, `telepon1`, `telepo
 (105, 'H. Agus Saefulloh', 'AGS', '', '081221595678', '085323949333', 'JLN.CIGONDEWAH HILIR RT/04/05 KP.CIKEEUS', 'Produksi Fashion'),
 (106, 'Akir', 'AKR', 'AKC', '00000000', '', 'JALAN CIPARAY TENGAH (BELAKANG SD BANDUNG)', 'Produksi Dompet'),
 (107, 'Ajat Sudrajat', 'ALS', 'JTC', '0821189699', '', 'JALAN BABAKAN TASIKMALAYA RT 01 RW 09 DESA MARGASUKA KECAMATAN BABAKAN CIPARAY', 'Produksi Tas'),
-(108, 'H. Agus Sukmana', 'ALY', 'ARC', '08122181045', '', 'PASIR LUYU', 'Produksi Fashion'),
+(108, 'H. Agus Sukmana', 'ALY', 'ARC', '08122181045', '082116826210', 'PASIR LUYU', 'Produksi Fashion'),
 (109, 'Anwar Nasihin', 'ANR', 'AWC', '085221195595', '', 'GANG IPONG RT 05 RW 02 CIBADUYUT', 'Produksi Sepatu'),
 (110, 'Atim', 'ATM', 'AIC', '081320621150', '081322367070', 'CILEBAK TY/03 RW/04', 'Produksi Dompet'),
 (111, 'Asep Abas', 'BAB', 'BBC', '02293442564', '', 'CILEBAK', 'Produksi Sepatu'),
